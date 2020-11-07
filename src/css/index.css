@@ -1,0 +1,16 @@
+.m-t-10 {
+    margin-top: 10px;
+}
+
+#spinner-container {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.71);
+    justify-content: center;
+    align-items: center;
+}
